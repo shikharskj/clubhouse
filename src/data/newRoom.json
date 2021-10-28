@@ -1,0 +1,29 @@
+{
+    "members": [
+      {
+        "first_name": "Sachita",
+        "last_name": "Srivastava",
+        "src": "/images/sachita.jpeg"
+      },
+      {
+        "first_name": "Riya",
+        "last_name": "Srivastava",
+        "src": "/images/dumdum.jpeg"
+      },
+      {
+        "first_name": "mussu.",
+        "last_name": "Srivastava",
+        "src": "/images/mussu.jpeg"
+      },
+      {
+        "first_name": "Darshan",
+        "last_name": "Srivastava",
+        "src": "/images/darshan.jpeg"
+      },
+      {
+        "first_name": "Mananjita",
+        "last_name": "Dey",
+        "src": "/images/mananjita.jpeg"
+      }
+    ]
+  }

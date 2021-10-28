@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "title": "LETS EXPLODE",
+      "sub_title": "Join the party!",
+      "src1": "/images/my.jpeg",
+      "src2": "/images/dumdum.jpeg",
+      "members": [
+        {
+          "first_name": "Riya",
+          "last_name": "Srivastava"
+        },
+        {
+          "first_name": "Abhinav ",
+          "last_name": "Sharma"
+        },
+        {
+          "first_name": "Sachita",
+          "last_name": "Srivastava"
+        },
+        {
+          "first_name": "Darshan",
+          "last_name": "Oswal"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "GOOD TIME",
+      "sub_title": "Calvin Harris x Email Nava on Good Time Show",
+      "src1": "/images/mussu.jpeg",
+      "src2": "/images/mananjita.jpeg",
+      "members": [
+        {
+          "first_name": "Mananjita",
+          "last_name": ""
+        },
+        {
+          "first_name": "Mussu.",
+          "last_name": ""
+        },
+        {
+          "first_name": "Steven",
+          "last_name": "Sinofsky"
+        },
+        {
+          "first_name": "Paul",
+          "last_name": "Davison"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "TAKE A CHILL PILL IN IBIZA",
+      "sub_title": "What's up!",
+      "src1": "/images/darshan.jpeg",
+      "src2": "/images/sachita.jpeg",
+      "members": [
+        {
+          "first_name": "Sachita",
+          "last_name": "Srivastava"
+        },
+        {
+          "first_name": "Darshan",
+          "last_name": "Oswal"
+        },
+        {
+          "first_name": "Steven",
+          "last_name": "Sinofsky"
+        },
+        {
+          "first_name": "Paul",
+          "last_name": "Davison"
+        }
+      ]
+    }
+  ]

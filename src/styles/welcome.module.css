@@ -1,0 +1,76 @@
+.WelcomeContainer {
+    padding: 2em 1.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    background-color: #f2f0e4;
+}
+.WelcomeContainer h1 {
+    font-size: 1.7em;
+    font-weight: 500;
+    font-style: normal;
+    margin-bottom: 0;
+    color: var(--textColor);
+}
+.WelcomeContainer img {
+    height: auto;
+    width: 100%;
+    object-fit: contain;
+}
+.WelcomeContainer .LogoContainer {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+.WelcomeContainer .LogoImage {
+    height: 3em;
+    width: 3em;
+    border-radius: 20px;
+}
+.WelcomeContainer .Logo {
+    height: 2em;
+    margin-left: 15px;
+}
+.WelcomeContainer .WelcomeSubtitle {
+    color: rgb(34,31,20);
+    font-weight: 900;
+    text-align: center;
+    line-height: 0.1em;
+}
+.WelcomeContainer .WelcomeSubtitle img {
+    height: 60px;
+    width: 60px;
+    margin-right: -20px;
+    
+}
+.WelcomeContainer .WelcomePoster {
+    margin-bottom: -10px;
+    /* margin-top: -5px; */
+}
+.WelcomeInfo {
+    height: 133px;
+    overflow: auto;
+}
+.WelcomeInfo p {
+    margin-bottom: 2em;
+    color: var(--textColor);
+    font-size: 1em;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.actionBtn {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.actionBtn>a:last-child {
+    color: var(--btnBgColor);
+    font-size: 0.875em;
+    font-weight: 400;
+    
+}
